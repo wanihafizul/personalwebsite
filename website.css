@@ -1,0 +1,74 @@
+body {
+  background-image: url(latarbelakang.png);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+h1 {
+ background-color:FF9999;
+ color:Black;
+ text-align:center;
+ font-family:cursive;
+ font-size:50px;
+}
+
+.topnav {
+ overflow:hidden;
+ background-color:996633;
+}
+
+.topnav a{
+ float:left;
+ color:black;
+ text-align:center;
+ padding: 14px 16px;
+ text-decoration:none;
+ font-size:17px;
+}
+
+.topnav a:hover {
+ background-color:#009999;
+ color:black;
+}
+
+.topnav a.active {
+ background-color:#009999;
+ color:black;
+}
+
+.center {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width:700;
+}
+
+.size {
+ display: block;
+ margin-left:auto;
+ margin-right:auto;
+ width:300;
+}
+
+h2 {
+ color:Black;
+ text-align:center;
+ font-family:cursive;
+ font-size:20px;
+}
+
+h3 {
+ background-color:66CCCC;
+ color:650066;
+ text-align:center;
+ font-family:cursive;
+ font-size:20px;
+}
+
+h4 {
+ color:Black;
+ text-align:left;
+ font-family:cursive;
+ font-size:20px;
+}
